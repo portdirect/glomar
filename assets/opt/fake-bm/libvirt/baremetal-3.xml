@@ -1,4 +1,4 @@
-<domain type='qemu'>
+<domain type='kvm'>
   <name>baremetal-3</name>
   <memory unit='MB'>65536</memory>
   <vcpu placement='static'>4</vcpu>
