@@ -1,0 +1,5 @@
+[root@dover openstack-helm]# git rev-parse --verify HEAD
+5406492cdbfd354351b154a7e35a20e9973de622
+[root@dover openstack-helm]# cd ../openstack-helm-infra/
+[root@dover openstack-helm-infra]# git rev-parse --verify HEAD
+976d7ba35c06f389e4473fd6550b7014acef4502
